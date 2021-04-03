@@ -6,7 +6,8 @@ Project to make Raspis into easy to use digital signage platforms
 ### App
 Single App for all roles
 Images vs Videos vs mixed
-OMXPlayer on Pi Zero, VLC on everything else. FFPlay?
+OMXPlayer on Pi Zero, VLC on everything else. FFPlay? Web Playback (May not work on Pi Zero)?
+https://raspberrypi.stackexchange.com/questions/66923/rpi-3-performance-issue-on-ffmpeg-with-mmal-support
 Transcode on local node, then send transcoded video
 Minimise transcoding
 Web interface
@@ -34,6 +35,9 @@ Power tolerance: read only sections?
 Windows compatibility
 Multi display output compatibility
 Video Rotation
+Volume Control
+Subtitles
+Hardware buttons on devices for control? IR remote?
 
 ## Procedure
 
