@@ -16,7 +16,7 @@ if __name__ == "__main__":
         #Define and save default config here
         config['APP'] = {'MediaDirectory': 'media',
                          'MediaConfig': 'media.ini',
-                         'Mode': 'auto'
+                         'Mode': 'auto',
                          'RescanMediaOnLaunch': False
         }
         with open('config.ini', 'w') as configfile:
